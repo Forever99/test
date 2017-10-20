@@ -10,6 +10,6 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
   </head>
   
   <body>
-    恭喜你，${user.name } 登录成功
+    真的很恭喜你，${user.name } 登录成功
   </body>
 </html>
